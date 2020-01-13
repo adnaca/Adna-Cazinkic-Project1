@@ -1,0 +1,167 @@
+<html>
+ <head>
+<link type="text/css" rel="stylesheet" href="CVNewProgress.css"/>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+<title>ADNA CAZINKIĆ</title> 
+</head>
+<body>
+<div id="header">
+<p id="name">Adna Cazinkić</p>
+         <a href="mailto:adnacazinkic@gmail.com" target="_blank"><p id="email">adnacazinkic@gmail.com</p></a>
+     </div>
+     <div class="left">
+     </div>
+     <div class="right"> 
+            <h3> <i class='far fa-arrow-alt-circle-down' style='font-size:24px'></i> WELCOME TO MY CV PAGE! </h3>
+
+            <div>
+            <p>
+                <img  src="https://scontent.fsjj2-1.fna.fbcdn.net/v/t1.0-9/20479922_1563731730317431_7834862050989609400_n.jpg?_nc_cat=110&_nc_oc=AQml_HeVZYqhOTk5AFVOEUeZkOubjRt6cMO-IOrg2X7oiolXRIfC3V_a7HciYTFVxcY&_nc_ht=scontent.fsjj2-1.fna&oh=f12407a5f46e15b974213370c4fd6de7&oe=5E25589E" style="width:30%"  style="float: left;width:170px;height:170px;margin-right:15px; margin-bottom: 5px; border-color:   #ff9999 2px;  " alt="Profile Photo"> 
+            <ul>
+                <li> <i style='font-size:24px' class='fas'>&#xf19d;</i>  Student</li> 
+                <li> <i style='font-size:24px' class='fas'>&#xf3c5;</i>  Sarajevo, BiH</li>
+                <li> <i style='font-size:24px' class='fas'>&#xf0e0;</i>  adnacazinkic@gmail.com </li>
+                <li> <i style='font-size:24px' class='fas'>&#xf005;</i>  An independent, dedicated, efficient person. Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li></ul>
+            </p>
+            </div>
+
+
+            <div id="cv" style="position:relative; color:black; background-color: #ffcccc;">
+        <h1 style= "color: black;">Adna Cazinkić</h1>
+        <div class="row">
+            <div class="column">
+                <ul>
+                    <h4>Education:</h4>
+                    <li>Primary School: <br> OŠ Harmani II , 77000 Bihać, (Achievement: Excellent).</li>
+                    <li>High school:<br>Medresa Džemaludin ef.Čaušević, 77220 Cazin, (Achievement: Excellent).<br></li>
+                    <li>University:  <br>  International University of Sarajevo, Sarajevo 71210, Ilidža<br>Faculty of Engineering and Natural Sciences,<br>
+                        Department of Computer Science and Engineering<br>From 2015.-present </li>
+                </ul>
+            </div>
+            <div class="column">
+                <h4 style="margin-left: 40px">Skills:</h4>
+                <ul>
+                    <li> Programming: Java, C, C++, </li>
+                    <li>Adobe: Photoshop, Lightroom, </li>
+                    <li>Microsoft: Word, Excel, PowerPoint</li>
+                </ul>
+            </div>
+            <div class="column">
+                <h4 style="margin-left: 40px">Experience:</h4>
+                <ul>
+                    <li>Interact with engineering team to get software issues and bugs resolved</li>
+                    <li>Occasionally interact with customers over Skype or telephone</li>
+                    <li>Contribute ideas to the team on how customers can be delighted</li>
+                </ul>
+            </div>
+
+        </div>
+            </p>
+
+            <h3>LANGUAGE SKILLS</h3>
+            <table>
+                <tr id="heading">
+                    <td>Languages</td>
+                    <td>Reading</td>
+                    <td>Speaking</td>
+                    <td>Writing</td>
+                </tr>
+                <tr>
+                    <td>Bosnian</td>
+                    <td>native</td>
+                    <td>native</td>
+                    <td>native</td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td>C2</td>
+                    <td>C2</td>
+                    <td>C2</td>
+                </tr>
+                <tr>
+                    <td>Turkish</td>
+                    <td>A2</td>
+                    <td>A2</td>
+                    <td>A2</td>
+                </tr>
+                <tr>
+                    <td>German</td>
+                    <td>A1</td>
+                    <td>A1</td>
+                    <td>A1</td>
+                </tr>
+            </table>
+            <br>
+            <br>
+            <h3>Independent Courses</h3>
+
+        
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">HTML & CSS for Beginners – Web Fundamentals</span> – Codecademy.com</li>
+                <li>
+                <span id="course-name">Python – Fundamentals and Dynamic Programming </span> - Codecademy.com</li>
+                <li>
+                <span id="course-name">JavaScript – Programming Basics, JS Apps and Build Games </span> - Codecademy.com</li>
+            </ul>
+            <h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Operating Systems:</span> Windows XP, Windows Server 2003, Windows Vista, Windows 7, Macintosh Computers (OS X) </li>
+                <li>
+                <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, C and C++</li></ul>
+            </p>
+            
+            </p>
+            
+            <h3>Declaration</h3>
+            <p>
+            I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+     </div>
+     <div id="footer"></div>
+  <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+
+<div class="row" id="footer">
+
+        <div id="f" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+            <h3 id="contactf">Contact Me</h3><br>
+
+            <form action="form.php" method="POST">
+                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
+                    <div class="form-group">
+                        <label class="contactl" for="name">First Name:</label>
+                        <input type="text" class="form-control" placeholder="Enter name" name="firstname" required>
+
+                    </div>
+                    <div class="form-group">
+                        <label class="contactl" for="surname">Last Name:</label>
+                        <input type="text" class="form-control" placeholder="Enter surname" name="lastname">
+                    </div>
+                    <div class="form-group">
+                        <label class="contactl" for="email">Email:</label>
+                        <input type="email" class="form-control" placeholder="Enter email" required name="email">
+                    </div>
+
+                    <div class="form-group">
+                        <label class="contactl" for="question">Ask a question...</label>
+                        <textarea class="form-control" rows="5" placeholder="Ask a question." required name="message"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button></div>
+            </form>
+
+        </div>
+        <br>
+
+
+    </div>
+
+    </body>
+</html>
